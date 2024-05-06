@@ -1,0 +1,49 @@
+{
+    "locales": [
+        {
+            "lugar": "Mborayu - Espacio Biocéntrico",
+            "latitud": -34.787073146201145, 
+            "longitud": -55.89479471109707,
+            "link": "https://maps.app.goo.gl/CvdCy8wjhqqCACFeA",
+            "profesor": "Profesor: Diego Correa",
+            "numero": "",
+            "disciplina": "Kung Fu"
+        },
+        {
+            "lugar": "Gimnasio Centro Alquimia",
+            "latitud": -34.82515131730773,
+            "longitud": -55.96295770299901,
+            "link": "https://maps.app.goo.gl/1TVG2pZEpvq5DVkx9",
+            "profesor": "Profesor: Diego Correa",
+            "numero":"",
+            "disciplina": "Kung Fu"
+        },
+        {
+            "lugar": "El Club Pinamar",
+            "latitud": -34.788320886932595, 
+            "longitud": -55.85258844047362,
+            "link": "https://maps.app.goo.gl/gmncwHVLE6FuJ3FC9",
+            "profesor": "Profesor: Juan Manuel Carrasco",
+            "numero": "",
+            "disciplina": "Kung Fu"
+        },
+        {
+            "lugar": "Shaolin Chuan",
+            "latitud": -34.76700234366967, 
+            "longitud": -55.76391307116374,
+            "link": "https://maps.app.goo.gl/JSHPWGtktE37ZuSW6",
+            "profesor": "Profesor: Daniel Bogado",
+            "numero":"",
+            "disciplina": "Kung Fu"
+        },
+        {
+            "lugar": "EDEA Espacio Deportivo Entrenamiento y Artes",
+            "latitud": -34.76634205588318,
+            "longitud": -55.71827921534506,
+            "link": "https://maps.app.goo.gl/jjWFhobW6dUbEerT7",
+            "profesor": "Profesor:",
+            "numero":"",
+            "disciplina": "Kung Fu"
+        }
+    ]
+}
