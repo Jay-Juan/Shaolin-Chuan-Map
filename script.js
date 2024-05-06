@@ -2,9 +2,9 @@ var map = L.map('map').setView([-34.547303588817826, -55.50233092972566], 9);
 var shaolinPin = L.icon({
     iconUrl: './Img/Shaolin pin.png',
 
-    iconSize:     [65, 95],
-    iconAnchor:   [30, 94],
-    popupAnchor:  [2, -79]
+    iconSize:     [35, 50],
+    iconAnchor:   [20, 50],
+    popupAnchor:  [-2, -42]
 });
 
 
