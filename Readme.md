@@ -1,6 +1,6 @@
 # Shaolin Chuan Map
 
-This map contains the location of some "Shaolin Chuan" Kung Fu schools.
+This map contains the location of some branches of the "Shaolin Chuan" Kung Fu schools.
 
 Within, you can find:  
  - A pin marking the location of each school
