@@ -2,6 +2,8 @@
 
 This map contains the location of some branches of the "Shaolin Chuan" Kung Fu schools.
 
+You can check the map [here](https://jay-juan.github.io/Shaolin-Chuan-Map/)
+
 Within, you can find:  
  - A pin marking the location of each school
     - Custom made pin with the school's logo
